@@ -1,0 +1,365 @@
+﻿ID,Material,Formula,Category,Phase,Equation,A,B,C,D,E,Tmin,Tmax,Unit,Source
+1,Aluminum,Al,Metal,Solid,Shomate,28.0892,-5.414849,8.560423,3.42737,-0.277375,298,933,J/mol·K,NIST Chemistry WebBook
+2,Copper,Cu,Metal,Solid,Shomate,17.72891,28.0987,-31.25289,13.97243,0.068611,298,1358,J/mol·K,NIST Chemistry WebBook
+3,Iron,Fe,Metal,Solid,Shomate,18.42868,24.64301,-8.91372,9.664706,-0.05781,298,700,J/mol·K,NIST Chemistry WebBook
+3,Iron,Fe,Metal,Solid,Shomate,-57767.65,137919.7,-122773.2,38682.42,-1.093303,700,1042,J/mol·K,NIST Chemistry WebBook
+3,Iron,Fe,Metal,Solid,Shomate,23.97449,8.36775,0.000277,-0.000086,-0.001,298,1809,J/mol·K,NIST Chemistry WebBook
+4,Nickel,Ni,Metal,Solid,Shomate,13.6916,82.49509,-174.9548,161.6011,-0.092417,298,600,J/mol·K,NIST Chemistry WebBook
+4,Nickel,Ni,Metal,Solid,Shomate,1248.045,-1257.51,0,0,-165.1266,600,700,J/mol·K,NIST Chemistry WebBook
+4,Nickel,Ni,Metal,Solid,Shomate,16.49839,18.74913,-6.639841,1.717278,1.872051,700,1728,J/mol·K,NIST Chemistry WebBook
+4,Nickel,Ni,Metal,Liquid,Shomate,38.91103,0,0,0,0,1728,3156.584,J/mol·K,NIST Chemistry WebBook
+5,Zinc,Zn,Metal,Solid,Shomate,25.60123,-4.405292,20.42206,-7.399697,-0.045801,298,692.73,J/mol·K,NIST Chemistry WebBook
+5,Zinc,Zn,Metal,Liquid,Shomate,31.38004,-9.65E-09,6.80E-09,-1.57E-09,-3.25E-10,692.73,1180.173,J/mol·K,NIST Chemistry WebBook
+6,Chromium,Cr,Metal,Solid,Shomate,7.489737,71.50498,-91.67562,46.0445,0.138157,298,600,J/mol·K,NIST Chemistry WebBook
+6,Chromium,Cr,Metal,Solid,Shomate,18.46508,5.477986,7.904329,-1.147848,1.265791,600,2130,J/mol·K,NIST Chemistry WebBook
+7,Molybdenum,Mo,Metal,Solid,Shomate,24.72736,3.960425,-1.270706,1.153065,-0.170246,298,1900,J/mol·K,NIST Chemistry WebBook
+7,Molybdenum,Mo,Metal,Solid,Shomate,1231.192,-963.4246,283.7292,-28.041,-712.2047,1900,2896,J/mol·K,NIST Chemistry WebBook
+7,Molybdenum,Mo,Metal,Liquid,Shomate,37.65604,-7.19E-08,1.41E-08,-9.53E-10,-1.56E-07,2896,4951.969,J/mol·K,NIST Chemistry WebBook
+8,Manganese,Mn,Metal,Solid,Shomate,27.2419,5.23764,7.78316,-2.118501,-0.282113,298,980,J/mol·K,NIST Chemistry WebBook
+8,Manganese,Mn,Metal,Solid,Shomate,52.2987,-28.6756,21.4867,-4.97985,-2.43206,980,1361,J/mol·K,NIST Chemistry WebBook
+8,Manganese,Mn,Metal,Solid,Shomate,19.0645,31.4134,-14.9935,3.214741,1.86709,1361,1412,J/mol·K,NIST Chemistry WebBook
+8,Manganese,Mn,Metal,Solid,Shomate,-534.172,679.053,-296.37,46.4266,161.342,1412,1519,J/mol·K,NIST Chemistry WebBook
+9,Niobium,Nb,Metal,Solid,Shomate,22.0143,9.88816,-5.64853,1.759691,0.021839,298,2750,J/mol·K,NIST Chemistry WebBook
+10,Tantalum,Ta,Metal,Solid,Shomate,20.69482,17.29992,-15.68987,5.608694,0.061581,298,1300,J/mol·K,NIST Chemistry WebBook
+10,Tantalum,Ta,Metal,Solid,Shomate,-43.87133,73.02084,-27.40796,4.004682,26.30414,1300,3258,J/mol·K,NIST Chemistry WebBook
+10,Tantalum,Ta,Metal,Liquid,Shomate,41.84,2.44E-08,-4.83E-09,3.27E-10,5.24E-08,3258,5778.07,J/mol·K,NIST Chemistry WebBook
+11,Tungsten,W,Metal,Solid,Shomate,23.81788,1.889459,-0.891479,0.142025,-0.012686,298,1900,J/mol·K,NIST Chemistry WebBook
+11,Tungsten,W,Metal,Solid,Shomate,-22.6173,48.4467,-20.704,3.737277,-1.83,1900,3680,J/mol·K,NIST Chemistry WebBook
+12,Titanium,Ti,Metal,Solid,Shomate,22.61942,18.98795,-18.18735,7.080792,-0.143457,298,700,J/mol·K,NIST Chemistry WebBook
+12,Titanium,Ti,Metal,Solid,Shomate,44.37174,-44.09225,31.70602,0.052209,0.036168,700,1700,J/mol·K,NIST Chemistry WebBook
+12,Titanium,Ti,Metal,Solid,Shomate,23.0566,5.541331,-2.055881,1.611745,-0.056075,298,1939,J/mol·K,NIST Chemistry WebBook
+13,Cobalt,Co,Metal,Solid,Shomate,10.9943,54.375,-55.5132,25.817,0.164533,298,700,J/mol·K,NIST Chemistry WebBook
+13,Cobalt,Co,Metal,Solid,Shomate,-204.576,515.582,-421.55,129.558,17.9267,700,1394,J/mol·K,NIST Chemistry WebBook
+13,Cobalt,Co,Metal,Solid,Shomate,-12418.9,15326.4,-7087.15,1167.31,3319.77,1394,1768,J/mol·K,NIST Chemistry WebBook
+14,Magnesium,Mg,Metal,Solid,Shomate,26.54083,-1.533048,8.062443,0.57217,-0.174221,298,923,J/mol·K,NIST Chemistry WebBook
+15,Calcium,Ca,Metal,Solid,Shomate,19.77517,10.10813,14.50338,-5.529491,0.178031,298,1100,J/mol·K,NIST Chemistry WebBook
+15,Calcium,Ca,Metal,Solid,Shomate,11.11735,38.52364,-8.891419,-9.618305,0.39185,298,716,J/mol·K,NIST Chemistry WebBook
+15,Calcium,Ca,Metal,Solid,Shomate,-40.63785,126.7765,-69.73891,17.93162,5.409494,716,1115,J/mol·K,NIST Chemistry WebBook
+16,Sodium,Na,Metal,Solid,Shomate,72.63675,-9.491572,-730.9322,1414.518,-1.259377,298,370,J/mol·K,NIST Chemistry WebBook
+17,Lithium,Li,Metal,Solid,Shomate,169.552,-882.711,1977.438,-1487.312,-1.609635,298,453,J/mol·K,NIST Chemistry WebBook
+18,Potassium,K,Metal,Solid,Shomate,-63.4741,-3226.34,14644.6,-16229.5,16.2941,298,336.35,J/mol·K,NIST Chemistry WebBook
+19,Lead,Pb,Metal,Solid,Shomate,25.0145,5.441836,4.061367,-1.236214,-0.010657,298,600.6,J/mol·K,NIST Chemistry WebBook
+20,Lead,Pb,Metal,Liquid,Shomate,38.00449,-14.62249,7.255475,-1.03337,-0.330775,600.6,2019.022,J/mol·K,NIST Chemistry WebBook
+21,Vanadium,V,Metal,Solid,Shomate,26.30167,1.396587,2.214139,0.403977,-0.176428,298,2190,J/mol·K,NIST Chemistry WebBook
+22,Niobium,Nb,Metal,Solid,Shomate,22.0143,9.88816,-5.64853,1.759691,0.021839,298,2750,J/mol·K,NIST Chemistry WebBook
+23,Hafnium,Hf,Metal,Alpha solid,Shomate,22.71033,10.86443,-1.901809,0.306368,-0.007587,298,2500,J/mol·K,NIST Chemistry WebBook
+23,Hafnium,Hf,Metal,Beta solid,Shomate,14.99366,9.234131,-0.000539,0.000106,0.000024,298,2500,J/mol·K,NIST Chemistry WebBook
+24,Zirconium,Zr,Metal,Alpha solid,Shomate,29.01663,-12.55597,20.74954,-5.914,-0.157249,298,1700,J/mol·K,NIST Chemistry WebBook
+24,Zirconium,Zr,Metal,Beta solid,Shomate,25.3924,0.434236,4.384539,1.017123,-0.065449,298,800,J/mol·K,NIST Chemistry WebBook
+24,Zirconium,Zr,Metal,Beta solid,Shomate,22.00069,2.211893,0.410633,0.705368,2.927135,800,2125,J/mol·K,NIST Chemistry WebBook
+25,Boron,B,Boron/Metalloid,Solid,Shomate,10.18574,29.24415,-18.02137,4.212326,-0.550999,298,1800,J/mol·K,NIST Chemistry WebBook
+25,Boron,B,Boron/Metalloid,Solid,Shomate,25.12664,1.975493,0.338395,-0.040032,-2.635578,1800,2350,J/mol·K,NIST Chemistry WebBook
+26,Lithium fluoride,LiF,Ceramic ,Solid,Shomate,41.75837,18.7111,0.693674,-0.992621,-0.487055,298,1121.3,J/mol·K,NIST Chemistry WebBook
+26,Lithium fluoride,LiF,Ceramic ,Liquid,Shomate,64.18298,4.20E-11,-2.30E-11,3.92E-12,1.15E-12,1121.3,3000,J/mol·K,NIST Chemistry WebBook
+27,Lithium chloride,LiCl,Ceramic ,Solid,Shomate,43.74372,20.37056,0.30643,-0.094178,-0.160419,298,883,J/mol·K,NIST Chemistry WebBook
+27,Lithium chloride,LiCl,Ceramic ,Liquid,Shomate,73.18025,-9.047232,-0.31639,0.079587,0.013594,883,2000,J/mol·K,NIST Chemistry WebBook
+28,Lithium hydride,LiH,Ceramic ,Solid,Shomate,15.45842,52.9322,-0.09997,0.029244,-0.291667,298,961.8,J/mol·K,NIST Chemistry WebBook
+28,Lithium hydride,LiH,Ceramic ,Liquid,Shomate,62.34202,0,0,0,0,961.8,2000,J/mol·K,NIST Chemistry WebBook
+29,Magnesium oxide,MgO,Ceramic,Solid,Shomate,47.25995,5.681621,-0.872665,0.1043,-1.053955,298,3105,J/mol·K,NIST Chemistry WebBook
+30,Calcium oxide,CaO,Ceramic,Solid,Shomate,49.95403,4.887916,-0.352056,0.046187,-0.825097,298,3200,J/mol·K,NIST Chemistry WebBook
+31,Zirconium dioxide,ZrO2,Ceramic,Solid,Shomate,69.20001,8.54829,-0.862921,0.246374,-1.382767,298,1478,J/mol·K,NIST Chemistry WebBook
+31,Zirconium dioxide,ZrO2,Ceramic,Solid,Shomate,74.4752,0,0,0,0,1478,2950,J/mol·K,NIST Chemistry WebBook
+32,Aluminium nitride,AlN,Ceramic,Solid,Shomate,17.23264,85.63811,-83.2729,29.63427,-0.537933,298,900,J/mol·K,NIST Chemistry WebBook
+32,Aluminium nitride,AlN,Ceramic,Solid,Shomate,49.78374,2.238047,-0.742003,0.087952,-2.813004,900,3000,J/mol·K,NIST Chemistry WebBook
+33,Silicon carbide,SiC,Ceramic,Alpha solid,Shomate,20.55859,64.57962,-52.98827,16.95813,-0.781847,298,1000,J/mol·K,NIST Chemistry WebBook
+33,Silicon carbide,SiC,Ceramic,Alpha solid,Shomate,46.90222,5.845968,-1.08541,0.093021,-3.448876,1000,4000,J/mol·K,NIST Chemistry WebBook
+33,Silicon carbide,SiC,Ceramic,Beta solid,Shomate,20.50009,63.3717,-49.54023,14.82801,-0.759969,298,1100,J/mol·K,NIST Chemistry WebBook
+33,Silicon carbide,SiC,Ceramic,Beta solid,Shomate,48.22227,5.004148,-1.037594,0.086339,-3.912333,1100,4000,J/mol·K,NIST Chemistry WebBook
+34,Beryllium oxide,BeO,Ceramic,Alpha solid,Shomate,3.358974,131.5922,-140.4937,56.20953,-0.536669,298,800,J/mol·K,NIST Chemistry WebBook
+34,Beryllium oxide,BeO,Ceramic,Alpha solid,Shomate,47.06205,5.598359,-0.49557,0.054527,-2.947373,800,2780,J/mol·K,NIST Chemistry WebBook
+34,Beryllium oxide,BeO,Ceramic,Beta solid,Shomate,24.68978,52.56317,-36.35239,9.487932,-1.053896,298,1500,J/mol·K,NIST Chemistry WebBook
+34,Beryllium oxide,BeO,Ceramic,Beta solid,Shomate,48.35281,4.393033,-0.090144,0.007823,-3.469105,1500,2780,J/mol·K,NIST Chemistry WebBook
+35,Iron(II) oxide,FeO,Ceramic,Solid,Shomate,45.7512,18.78553,-5.952201,0.852779,-0.081265,298,1650,J/mol·K,NIST Chemistry WebBook
+36,Chromium(III) oxide,Cr2O3,Ceramic,Solid,Shomate,-147396,711495,-1111270,407561,2077.16,298,305,J/mol·K,NIST Chemistry WebBook
+36,Chromium(III) oxide,Cr2O3,Ceramic,Solid,Shomate,124.655,-0.337045,5.70501,-1.05347,-2.030501,305,2603,J/mol·K,NIST Chemistry WebBook
+37,Titanium carbide,TiC,Ceramic,Solid,Shomate,5.55433,149.865,-171.069,67.1354,-0.269136,298,1000,J/mol·K,NIST Chemistry WebBook
+37,Titanium carbide,TiC,Ceramic,Solid,Shomate,43.27,4.53336,2.0214,-0.203272,1.701881,1000,3290,J/mol·K,NIST Chemistry WebBook
+37,Titanium carbide,TiC,Ceramic,Liquid,Shomate,62.7623,-0.001173,0.000225,-0.000015,-0.003425,3290,4500,J/mol·K,NIST Chemistry WebBook
+38,Boron nitride,BN,Ceramic,Solid,Shomate,-1.626426,101.9817,-81.52482,25.65093,-0.223052,298,1100,J/mol·K,NIST Chemistry WebBook
+38,Boron nitride,BN,Ceramic,Solid,Shomate,78.1475,-23.33367,6.844396,-0.699753,-17.04034,1100,3500,J/mol·K,NIST Chemistry WebBook
+39,Aluminium oxide,Al2O3,Ceramic,Alpha,Shomate,102.429,38.7498,-15.9109,2.628181,-3.007551,298,2327,J/mol·K,NIST Chemistry WebBook
+39,Aluminium oxide,Al2O3,Ceramic,Gamma,Shomate,108.683,37.2263,-14.2065,2.193601,-3.209881,298,2327,J/mol·K,NIST Chemistry WebBook
+39,Aluminium oxide,Al2O3,Ceramic,Delta,Shomate,106.918,36.6219,-13.9759,2.15799,-3.157761,298,2327,J/mol·K,NIST Chemistry WebBook
+39,Aluminium oxide,Al2O3,Ceramic,Kappa,Shomate,106.088,36.3374,-13.8673,2.141221,-3.133231,298,2327,J/mol·K,NIST Chemistry WebBook
+40,Quartz,SiO2,Ceramic,Quartz,Shomate,-6.076591,251.6755,-324.7964,168.5604,0.002548,298,847,J/mol·K,NIST Chemistry WebBook
+40,Quartz,SiO2,Ceramic,Quartz,Shomate,58.7534,10.27925,-0.131384,0.02521,0.025601,847,1996,J/mol·K,NIST Chemistry WebBook
+41,Titanium dioxide (anatase),TiO2,Ceramic,Anatase,Shomate,67.49796,18.27015,-11.25467,2.371717,-1.492815,298,2000,J/mol·K,NIST Chemistry WebBook
+42,Titanium nitride,TiN,Ceramic,Solid,Shomate,50.40716,0.596509,2.944759,-0.305012,-1.209679,298,3220,J/mol·K,NIST Chemistry WebBook
+42,Titanium nitride,TiN,Ceramic,Liquid,Shomate,70.43429,-4.570727,1.005445,-0.077511,-8.247124,3220,4500,J/mol·K,NIST Chemistry WebBook
+43,Zirconium carbide,ZrC,Ceramic,Solid,Shomate,51.02723,3.68564,-0.199004,0.028938,-1.30381,298,3805,J/mol·K,NIST Chemistry WebBook
+44,Boron carbide,B4C,Ceramic,Solid,Shomate,95.99853,23.16513,-0.409604,0.081414,-4.395208,298,2743,J/mol·K,NIST Chemistry WebBook
+45,Silicon carbide (alpha),SiC,Ceramic,Alpha,Shomate,20.55859,64.57962,-52.98827,16.95813,-0.781847,298,1000,J/mol·K,NIST Chemistry WebBook
+45,Silicon carbide (alpha),SiC,Ceramic,Alpha,Shomate,46.90222,5.845968,-1.08541,0.093021,-3.448876,1000,4000,J/mol·K,NIST Chemistry WebBook
+45,Silicon carbide (beta),SiC,Ceramic,Beta,Shomate,20.50009,63.3717,-49.54023,14.82801,-0.759969,298,1100,J/mol·K,NIST Chemistry WebBook
+45,Silicon carbide (beta),SiC,Ceramic,Beta,Shomate,48.22227,5.004148,-1.037594,0.086339,-3.912333,1100,4000,J/mol·K,NIST Chemistry WebBook
+46,Magnesium oxide,MgO,Ceramic,Solid,Shomate,47.25995,5.681621,-0.872665,0.1043,-1.053955,298,3105,J/mol·K,NIST Chemistry WebBook
+47,Barium oxide,BaO,Ceramic,Solid,Shomate,47.4273,13.1362,-3.796501,0.725938,-0.336757,298,2286,J/mol·K,NIST Chemistry WebBook
+48,Calcium fluoride,CaF2,Ceramic,Solid,Shomate,89.88404,-46.12023,65.27793,-17.86271,-1.139438,298,1424,J/mol·K,NIST Chemistry WebBook
+48,Calcium fluoride,CaF2,Ceramic,Solid,Shomate,108.0564,10.39532,0.022966,-0.002862,-0.02803,1424,1691,J/mol·K,NIST Chemistry WebBook
+49,Magnesium fluoride,MgF2,Ceramic,Solid,Shomate,68.55149,22.72586,-12.16218,2.573717,-1.140865,298,1536,J/mol·K,NIST Chemistry WebBook
+49,Magnesium fluoride,MgF2,Ceramic,Liquid,Shomate,94.92199,-5.30E-08,2.13E-08,-2.91E-09,-1.30E-08,1536,3000,J/mol·K,NIST Chemistry WebBook
+50,Sodium fluoride,NaF,Ceramic,Solid,Shomate,53.0022,-5.95215,12.5635,0.378227,-0.489113,298,1269,J/mol·K,NIST Chemistry WebBook
+50,Sodium fluoride,NaF,Ceramic,Liquid,Shomate,66.4335,-2.270481,0.701306,-0.074194,9.03507,1269,3500,J/mol·K,NIST Chemistry WebBook
+51,Lithium oxide,Li2O,Ceramic,Solid,Shomate,68.6971,5.467149,23.18308,-9.495631,-1.60244,298,1600,J/mol·K,NIST Chemistry WebBook
+51,Lithium oxide,Li2O,Ceramic,Solid,Shomate,98.80851,0.308701,1.715663,-0.145556,-14.90098,1600,1843,J/mol·K,NIST Chemistry WebBook
+52,Barium fluoride,BaF2,Ceramic,Solid,Shomate,50.752,114.029,-162.777,92.2164,-0.045675,298,900,J/mol·K,NIST Chemistry WebBook
+52,Barium fluoride,BaF2,Ceramic,Solid,Shomate,-297673,573416,-412756,105325,31782.3,900,1240,J/mol·K,NIST Chemistry WebBook
+52,Barium fluoride,BaF2,Ceramic,Solid,Shomate,495029,-709571,380866,-72583.2,-95735.1,1240,1480,J/mol·K,NIST Chemistry WebBook
+52,Barium fluoride,BaF2,Ceramic,Solid,Shomate,-351.859,580.782,-275.099,46.3024,114.844,1480,1641,J/mol·K,NIST Chemistry WebBook
+52,Barium fluoride,BaF2,Ceramic,Liquid,Shomate,99.82606,-3.51E-08,1.24E-08,-1.49E-09,-1.22E-08,1641,3500,J/mol·K,NIST Chemistry WebBook
+53,Aluminium fluoride,AlF3,Ceramic,Solid,Shomate,-27.17362,594.2661,-1042.272,662.4444,0.019262,298,728,J/mol·K,NIST Chemistry WebBook
+53,Aluminium fluoride,AlF3,Ceramic,Solid,Shomate,92.96722,8.667826,0.148503,-0.006692,-0.942781,728,2523,J/mol·K,NIST Chemistry WebBook
+53,Aluminium fluoride,AlF3,Ceramic,Liquid,Shomate,125.52,-3.00E-06,7.02E-07,-6.49E-08,-3.00E-06,2523,4000,J/mol·K,NIST Chemistry WebBook
+54,Caesium fluoride,CsF,Ceramic,Solid,Shomate,45.23741,22.6164,-5.541122,2.024714,0.03809,298,976,J/mol·K,NIST Chemistry WebBook
+54,Caesium fluoride,CsF,Ceramic,Liquid,Shomate,74.05722,-7.54E-10,4.22E-10,-7.33E-11,-2.29E-11,976,3000,J/mol·K,NIST Chemistry WebBook
+55,Barium bromide,BaBr2,Inorganic,Solid,Shomate,70.5686,21.62065,-0.001626,0.001652,-0.000068,298,1130,J/mol·K,NIST Chemistry WebBook
+55,Barium bromide,BaBr2,Inorganic,Liquid,Shomate,104.851,7.56E-09,-3.40E-09,5.10E-10,1.15E-09,1130,3000,J/mol·K,NIST Chemistry WebBook
+56,Barium chloride,BaCl2,Inorganic,Solid,Shomate,49.8765,101.446,-123.107,60.9448,0.390979,298,1198,J/mol·K,NIST Chemistry WebBook
+56,Barium chloride,BaCl2,Inorganic,Solid,Shomate,177.128,-106.576,77.3872,-19.5195,-4.4614,1198,1235,J/mol·K,NIST Chemistry WebBook
+56,Barium chloride,BaCl2,Inorganic,Liquid,Shomate,108.784,-1.78E-08,7.79E-09,-1.14E-09,-2.95E-09,1235,3000,J/mol·K,NIST Chemistry WebBook
+57,Strontium monoxide,SrO,Ceramic,Solid,Shomate,48.55114,8.748034,-0.893966,0.115057,-0.507804,298,2938,J/mol·K,NIST Chemistry WebBook
+57,Strontium monoxide,SrO,Ceramic,Liquid,Shomate,66.944,1.16E-07,-2.61E-08,2.03E-09,1.77E-07,2938,5000,J/mol·K,NIST Chemistry WebBook
+58,Magnesium bromide,MgBr2,Inorganic,Solid,Shomate,85.69418,-16.67119,25.90026,-5.87827,-0.859787,298,984,J/mol·K,NIST Chemistry WebBook
+58,Magnesium bromide,MgBr2,Inorganic,Liquid,Shomate,104.6,-2.54E-07,1.52E-07,-3.09E-08,-1.91E-08,984,2000,J/mol·K,NIST Chemistry WebBook
+59,Strontium fluoride,SrF2,Ceramic,Solid,Shomate,36.5194,168.769,-230.884,111.204,0.068095,298,1000,J/mol·K,NIST Chemistry WebBook
+59,Strontium fluoride,SrF2,Ceramic,Solid,Shomate,-58525.4,101109,-65313,14992.7,7827.67,1000,1421,J/mol·K,NIST Chemistry WebBook
+59,Strontium fluoride,SrF2,Ceramic,Solid,Shomate,165.268,0,0,0,0,1421,1484,J/mol·K,NIST Chemistry WebBook
+59,Strontium fluoride,SrF2,Ceramic,Solid,Shomate,-9188.53,8931.57,-3220.34,411.904,4048.57,1484,1750,J/mol·K,NIST Chemistry WebBook
+60,Sodium bromide,NaBr,Inorganic,Solid,Shomate,50.18122,10.12185,0.962764,-0.028406,-0.165604,298,1020,J/mol·K,NIST Chemistry WebBook
+61,Magnesium sulfate,MgSO4,Inorganic,Solid,Shomate,75.83207,111.722,-39.68842,5.129835,-0.83257,298,1400,J/mol·K,NIST Chemistry WebBook
+62,Potassium sulfate,K2SO4,Inorganic,Solid,Shomate,139.505,-1.199884,136.808,-47.14322,-1.663999,298,1200,J/mol·K,NIST Chemistry WebBook
+62,Potassium sulfate,K2SO4,Inorganic,Solid,Shomate,114.3424,81.29554,-0.000942,-0.016197,0.000141,298,1342,J/mol·K,NIST Chemistry WebBook
+63,Sodium sulfate,Na2SO4,Inorganic,Solid,Shomate,96.97466,149.5454,-44.51148,14.24313,-0.8749,298,1000,J/mol·K,NIST Chemistry WebBook
+63,Sodium sulfate,Na2SO4,Inorganic,Solid,Shomate,52.33891,184.8692,129.4622,-60.06174,1.055407,298,1000,J/mol·K,NIST Chemistry WebBook
+63,Sodium sulfate,Na2SO4,Inorganic,Solid,Shomate,154.1365,12.24966,49.39296,-15.42553,-0.190212,298,1157,J/mol·K,NIST Chemistry WebBook
+63,Sodium sulfate,Na2SO4,Inorganic,Solid,Shomate,252.9416,-309.083,381.0595,-113.814,-3.192919,298,1157,J/mol·K,NIST Chemistry WebBook
+63,Sodium sulfate,Na2SO4,Inorganic,Solid,Shomate,97.09767,149.0676,-43.87886,13.96711,-0.877515,298,1000,J/mol·K,NIST Chemistry WebBook
+64,Cobalt monoxide,CoO,Ceramic,Solid,Shomate,43.65,22.38373,-16.89386,6.556161,0.532263,298,1600,J/mol·K,NIST Chemistry WebBook
+64,Cobalt monoxide,CoO,Ceramic,Solid,Shomate,35.9629,14.1274,1.164304,-0.116488,5.161759,1600,3000,J/mol·K,NIST Chemistry WebBook
+65,Copper monoxide,CuO,Ceramic,Solid,Shomate,48.56494,7.498607,-0.05598,0.013851,-0.760082,298,2000,J/mol·K,NIST Chemistry WebBook
+66,Iron monoxide,FeO,Ceramic,Solid,Shomate,45.7512,18.78553,-5.952201,0.852779,-0.081265,298,1650,J/mol·K,NIST Chemistry WebBook
+67,Lead monoxide,PbO,Ceramic,Solid,Shomate,51.65148,10.49858,-2.693856,1.758934,-0.787718,298,1159,J/mol·K,NIST Chemistry WebBook
+67,Lead monoxide,PbO,Ceramic,Solid,Shomate,7.46557,179.586,-233.549,109.207,0.233832,298,762,J/mol·K,NIST Chemistry WebBook
+67,Lead monoxide,PbO,Ceramic,Solid,Shomate,47.8634,12.5548,-0.00181,0.000416,0.0002,762,1159,J/mol·K,NIST Chemistry WebBook
+68,Niobium monoxide,NbO,Ceramic,Solid,Shomate,43.0034,8.847541,0.018576,-0.005737,-0.402614,298,2210,J/mol·K,NIST Chemistry WebBook
+69,Vanadium monoxide,VO,Ceramic,Solid,Shomate,45.97044,14.46601,0.619521,-0.177508,-0.420735,298,2063,J/mol·K,NIST Chemistry WebBook
+70,Hematite,Fe2O3,Ceramic,Solid,Shomate,93.41914,108.358,-50.86447,25.584?,-1.611?,298,950,J/mol·K,NIST Chemistry WebBook
+70,Hematite,Fe2O3,Ceramic,Solid,Shomate,150.624,0,0,0,0,950,1050,J/mol·K,NIST Chemistry WebBook
+70,Hematite,Fe2O3,Ceramic,Solid,Shomate,110.914,32.046?,-9.192?,0.901?,5.431?,1050,2500,J/mol·K,NIST Chemistry WebBook
+61,Calcium iodide,CaI2,Inorganic,Solid,Shomate,71.469,19.24837,0.44801,-0.138429,-0.007944,298,1052,J/mol·K,NIST Chemistry WebBook
+62,Lithium bromide,LiBr,Inorganic,Solid,Shomate,71.38155,-81.89008,118.8879,-32.37918,-0.689063,298,823,J/mol·K,NIST Chemistry WebBook
+62,Lithium bromide,LiBr,Inorganic,Liquid,Shomate,65.26998,1.71E-09,-1.31E-09,3.22E-10,3.01E-11,823,2000,J/mol·K,NIST Chemistry WebBook
+63,Sodium iodide,NaI,Inorganic,Solid,Shomate,50.19963,10.22787,0.564543,-0.221018,-0.094625,298,933,J/mol·K,NIST Chemistry WebBook
+63,Sodium iodide,NaI,Inorganic,Liquid,Shomate,64.8519,6.50E-05,-2.40E-05,3.00E-06,2.00E-05,933,3000,J/mol·K,NIST Chemistry WebBook
+64,Potassium iodide,KI,Inorganic,Solid,Shomate,73.62376,-85.43644,130.0973,-48.86619,-0.502415,298,954,J/mol·K,NIST Chemistry WebBook
+64,Potassium iodide,KI,Inorganic,Liquid,Shomate,72.3832,-1.63E-09,1.02E-09,-2.03E-10,-4.12E-11,954,2500,J/mol·K,NIST Chemistry WebBook
+65,Caesium chloride,CsCl,Inorganic,Solid,Shomate,44.43199,27.83406,-8.253443,3.968596,0.029749,298,743,J/mol·K,NIST Chemistry WebBook
+65,Caesium chloride,CsCl,Inorganic,Solid,Shomate,60.86214,3.057421,1.135405,-0.215987,-0.157675,743,918,J/mol·K,NIST Chemistry WebBook
+65,Caesium chloride,CsCl,Inorganic,Liquid,Shomate,77.404,-2.66E-10,1.48E-10,-2.57E-11,-7.77E-12,918,3000,J/mol·K,NIST Chemistry WebBook
+66,Sodium carbonate,Na2CO3,Inorganic,Solid,Shomate,175.201,-348.058,743.072,-305.551,-1.634221,298,723,J/mol·K,NIST Chemistry WebBook
+66,Sodium carbonate,Na2CO3,Inorganic,Solid,Shomate,-1067,2469.34,-1829.06,505.748,100.182,723,1123,J/mol·K,NIST Chemistry WebBook
+67,Lithium carbonate,Li2CO3,Inorganic,Solid,Shomate,68.3323,146.639,-162.573,248.026,-0.702297,298,683,J/mol·K,NIST Chemistry WebBook
+67,Lithium carbonate,Li2CO3,Inorganic,Solid,Shomate,-6.39474,261.466,-102.005,42.4723,-0.168328,683,993,J/mol·K,NIST Chemistry WebBook
+68,Molybdenum dioxide,MoO2,Ceramic,Solid,Shomate,65.66788,11.56089,5.427778,0.000256,-1.217687,298,3000,J/mol·K,NIST Chemistry WebBook
+69,Molybdenum trioxide,MoO3,Ceramic,Solid,Shomate,93.31366,-22.81113,52.63054,-12.74279,-1.416934,298,1074,J/mol·K,NIST Chemistry WebBook
+69,Molybdenum trioxide,MoO3,Ceramic,Liquid,Shomate,126.9513,-1.00E-06,7.38E-07,-1.46E-07,-1.10E-07,1074,2000,J/mol·K,NIST Chemistry WebBook
+70,Tungsten dioxide,WO2,Ceramic,Solid,Shomate,53.40876,53.53219,-39.0117,11.12019,-0.931241,298,1300,J/mol·K,NIST Chemistry WebBook
+70,Tungsten dioxide,WO2,Ceramic,Solid,Shomate,-183.2441,263.9296,-87.96023,10.73338,77.7814,1300,3000,J/mol·K,NIST Chemistry WebBook
+71,Tungsten trioxide,WO3,Ceramic,Solid,Shomate,30.5396,200.867,-206.248,76.5193,-0.088904,298,1050,J/mol·K,NIST Chemistry WebBook
+71,Tungsten trioxide,WO3,Ceramic,Solid,Shomate,68.3125,35.1268,-10.3539,2.016841,2.24524,1050,1745,J/mol·K,NIST Chemistry WebBook
+71,Tungsten trioxide,WO3,Ceramic,Liquid,Shomate,131.796,0,0,0,0,1745,3000,J/mol·K,NIST Chemistry WebBook
+72,Zirconium dioxide,ZrO2,Ceramic,Solid,Shomate,69.20001,8.54829,-0.862921,0.246374,-1.382767,298,1478,J/mol·K,NIST Chemistry WebBook
+72,Zirconium dioxide,ZrO2,Ceramic,Solid,Shomate,74.4752,0,0,0,0,1478,2950,J/mol·K,NIST Chemistry WebBook
+73,Potassium carbonate,K2CO3,Inorganic,Solid,Shomate,97.08093,94.22326,-2.053291,0.709644,-0.94786,298,1174,J/mol·K,NIST Chemistry WebBook
+73,Potassium carbonate,K2CO3,Inorganic,Liquid,Shomate,209.2,-1.63E-07,8.01E-08,-1.34E-08,-2.11E-08,1174,2500,J/mol·K,NIST Chemistry WebBook
+74,Magnetite,Fe3O4,Ceramic,Solid,Shomate,104.2096,178.5108,10.6151,1.132534,-0.994202,298,900,J/mol·K,NIST Chemistry WebBook
+74,Magnetite,Fe3O4,Ceramic,Solid,Shomate,200.832,1.59E-07,-6.66E-08,9.45E-09,3.19E-08,900,3000,J/mol·K,NIST Chemistry WebBook
+75,Copper(I) oxide,Cu2O,Ceramic,Solid,Shomate,59.42033,37.84767,-26.45083,11.07609,-0.54218,298,1100,J/mol·K,NIST Chemistry WebBook
+75,Copper(I) oxide,Cu2O,Ceramic,Solid,Shomate,28.82153,39.81603,1.459388,-0.25611,11.30291,1100,1516.7,J/mol·K,NIST Chemistry WebBook
+75,Copper(I) oxide,Cu2O,Ceramic,Liquid,Shomate,95.3998,4.89249,-1.982781,0.284974,1.522601,1516.7,2000,J/mol·K,NIST Chemistry WebBook
+76,Chromium nitride,CrN,Ceramic,Solid,Shomate,-2256.16,10531.1,-17686.5,10370.3,41.4294,298,600,J/mol·K,NIST Chemistry WebBook
+76,Chromium nitride,CrN,Ceramic,Solid,Shomate,46.5734,6.28348,0.221255,-0.037297,0.005532,600,2500,J/mol·K,NIST Chemistry WebBook
+77,Titanium oxide (Ti3O5),Ti3O5,Ceramic,Solid,Shomate,233.4149,-59.35757,68.20422,-20.59934,-5.90149,298,1500,J/mol·K,NIST Chemistry WebBook
+77,Titanium oxide (Ti3O5),Ti3O5,Ceramic,Solid,Shomate,158.9933,50.20633,0.001071,-0.000225,-0.000037,298,2050,J/mol·K,NIST Chemistry WebBook
+78,Zirconium orthosilicate,ZrSiO4,Ceramic,Solid,Shomate,85.1716,136.9892,-94.57221,21.71923,-1.742368,298,1700,J/mol·K,NIST Chemistry WebBook
+78,Zirconium orthosilicate,ZrSiO4,Ceramic,Solid,Shomate,150.624,9.00E-06,-3.00E-06,3.45E-07,5.00E-06,1700,3000,J/mol·K,NIST Chemistry WebBook
+79,Chromium(III) oxide,Cr2O3,Ceramic,Solid,Shomate,-147396,711495,-1111270,407561,2077.16,298,305,J/mol·K,NIST Chemistry WebBook
+79,Chromium(III) oxide,Cr2O3,Ceramic,Solid,Shomate,124.655,-0.337045,5.70501,-1.05347,-2.030501,305,2603,J/mol·K,NIST Chemistry WebBook
+79,Chromium(III) oxide,Cr2O3,Ceramic,Liquid,Shomate,156.9,0.000169,-0.000035,0.000003,0.000369,2603,4500,J/mol·K,NIST Chemistry WebBook
+80,Beryllium fluoride,BeF2,Ceramic,Solid,Shomate,114.2533,-256.7867,389.9634,0,-1.825756,298,500,J/mol·K,NIST Chemistry WebBook
+80,Beryllium fluoride,BeF2,Ceramic,Solid,Shomate,47.38715,33.40878,0.060563,-0.020002,-0.001405,500,825,J/mol·K,NIST Chemistry WebBook
+80,Beryllium fluoride,BeF2,Ceramic,Liquid,Shomate,50.61468,42.61739,-8.151102,1.73134,-1.135873,825,2000,J/mol·K,NIST Chemistry WebBook
+81,Lead dioxide,PbO2,Ceramic,Solid,Shomate,57.91116,48.88502,-34.77573,7.975415,-0.751526,298,1200,J/mol·K,NIST Chemistry WebBook
+82,Aluminium silicate,Al2O5Si,Ceramic,Solid,Shomate,164.8776,36.97957,-4.284081,0.693925,-4.777793,298,3000,J/mol·K,NIST Chemistry WebBook
+83,Disodium metasilicate,Na2SiO3,Ceramic,Solid,Shomate,114.1822,76.97221,-23.52128,3.741341,-2.076642,298,1362,J/mol·K,NIST Chemistry WebBook
+84,Hematite,FeS,Ceramic,Solid,Shomate,62.5112,31.5756,-0.672,-0.0701,-0.1331,298,411,J/mol·K,NIST Chemistry WebBook
+84,Iron sulfide,FeS,Ceramic,Solid,Shomate,72.3593,-0.0607,0.1205,-0.0792,-0.000017,411,598,J/mol·K,NIST Chemistry WebBook
+85,Calcium sulfide,CaS,Inorganic,Solid,Shomate,48.6026,7.280161,-1.933724,0.329739,-0.289224,298,3000,J/mol·K,NIST Chemistry WebBook
+86,Barium sulfide,BaS,Inorganic,Solid,Shomate,49.3571,9.299091,-0.991007,0.175505,-0.245622,298,3000,J/mol·K,NIST Chemistry WebBook
+87,Strontium sulfide,SrS,Inorganic,Solid,Shomate,48.78126,9.579728,-2.396596,0.404882,-0.253551,298,3000,J/mol·K,NIST Chemistry WebBook
+88,Tantalum carbide,TaC,Refractory ceramic,Solid,Shomate,44.29224,7.673707,-0.091309,0.010861,-0.875548,298,4273,J/mol·K,NIST Chemistry WebBook
+89,Cesium,Cs,Metal,Solid,Shomate,57.04424,-50.0034,48.5595,-16.72822,-1.223804,298,301.55,J/mol·K,NIST Chemistry WebBook
+89,Cesium,Cs,Metal,Liquid,Shomate,30.04635,0.506293,0.347554,-0.099462,0.197109,301.55,947.967,J/mol·K,NIST Chemistry WebBook
+90,Strontium,Sr,Metal,Solid (α),Shomate,23.88223,9.297351,0.919924,0.035243,0.004934,298,1050,J/mol·K,NIST Chemistry WebBook
+90,Strontium,Sr,Metal,Solid (β),Shomate,26.36179,4.177331,0.005861,-0.001724,-0.000095,298,1050,J/mol·K,NIST Chemistry WebBook
+91,Sulfur,S,Non-metal,Solid,Shomate,21.21978,3.865858,22.27461,-10.31908,-0.122518,298,388.36,J/mol·K,NIST Chemistry WebBook
+91,Sulfur,S,Non-metal,Solid,Shomate,24.23749,-4.98306,33.009,-15.29616,-0.182237,298,388.36,J/mol·K,NIST Chemistry WebBook
+92,Lead sulfide,PbS,Semiconductor,Solid,Shomate,47.38087,7.55053,2.008094,-0.70046,-0.031834,298,1386.5,J/mol·K,NIST Chemistry WebBook
+93,Triberyllium nitride,Be₃N₂,Ceramic,Solid (α),Shomate,24.1327,252.754,-223.945,72.2275,-1.53134,298,1000,J/mol·K,NIST Chemistry WebBook
+93,Triberyllium nitride,Be₃N₂,Ceramic,Solid (α),Shomate,144.759,-4.03265,-2.594851,0.877102,-15.4441,1000,2473,J/mol·K,NIST Chemistry WebBook
+94,Lithium silicate,Li₂O₅Si₂,Ceramic,Solid,Shomate,208.244,-1.366251,60.9669,-25.827,-6.62868,298,1209.12,J/mol·K,NIST Chemistry WebBook
+94,Lithium silicate,Li₂O₅Si₂,Ceramic,Solid,Shomate,530.623,-175.148,-47.685,43.8562,-119.146,1209.12,1307,J/mol·K,NIST Chemistry WebBook
+95,Chromium carbide,Cr₂₃C₆,Refractory ceramic,Solid,Shomate,445.662,1161.66,-1276.96,547.996,-5.78708,298,1000,J/mol·K,NIST Chemistry WebBook
+95,Chromium carbide,Cr₂₃C₆,Refractory ceramic,Solid,Shomate,637.526,193.587,33.0682,-4.63217,12.7958,1000,2000,J/mol·K,NIST Chemistry WebBook
+96,Tricobalt tetraoxide,Co₃O₄,Ceramic,Solid,Shomate,177.0953,-100.4361,185.7792,-49.04861,-3.483951,298,1500,J/mol·K,NIST Chemistry WebBook
+97,Niobium pentoxide,Nb₂O₅,Ceramic,Solid,Shomate,116.057,117.181,-71.7632,15.3084,-1.160891,298,1785,J/mol·K,NIST Chemistry WebBook
+97,Niobium pentoxide,Nb₂O₅,Ceramic,Liquid,Shomate,242.254,0,0,0,0,1785,5000,J/mol·K,NIST Chemistry WebBook
+98,Tantalum pentoxide,Ta₂O₅,Ceramic,Solid,Shomate,131.9759,80.02737,-33.89676,5.280459,-1.625722,298,2058,J/mol·K,NIST Chemistry WebBook
+98,Tantalum pentoxide,Ta₂O₅,Ceramic,Liquid,Shomate,242.6724,-4.77E-08,1.23E-08,-1.06E-09,-4.05E-08,2058,5000,J/mol·K,NIST Chemistry WebBook
+99,Niobium dioxide,NbO₂,Ceramic,Solid,Shomate,66.4998,-11.2606,49.6152,-16.4663,-0.858315,298,1090,J/mol·K,NIST Chemistry WebBook
+99,Niobium dioxide,NbO₂,Ceramic,Solid,Shomate,42.5443,72.4086,-37.3188,6.35499,8.939621,1090,1200,J/mol·K,NIST Chemistry WebBook
+99,Niobium dioxide,NbO₂,Ceramic,Solid,Shomate,83.0524,0.000005,-0.000009,0.000003,-0.000006,1200,2175,J/mol·K,NIST Chemistry WebBook
+99,Niobium dioxide,NbO₂,Ceramic,Liquid,Shomate,94.1426,-0.001923,0.000534,-0.000053,-0.00186,2175,3000,J/mol·K,NIST Chemistry WebBook
+100,Barium,Ba,Metal,Solid,Shomate,83.8018,-406.186,915.066,-519.805,-0.191854,298,583,J/mol·K,NIST Chemistry WebBook
+100,Barium,Ba,Metal,Solid,Shomate,76.7154,-187.587,295.711,-113.932,-4.34448,583,768,J/mol·K,NIST Chemistry WebBook
+100,Barium,Ba,Metal,Solid,Shomate,26.1552,28.6014,-23.6836,6.95217,1.041351,768,1000,J/mol·K,NIST Chemistry WebBook
+100,Barium,Ba,Metal,Liquid,Shomate,55.0142,-18.6835,2.75744,1.284171,3.02234,1000,2118.599,J/mol·K,NIST Chemistry WebBook
+101,Copper(II) fluoride,CuF₂,Ceramic,Solid,Shomate,57.97727,59.88224,-32.64729,5.957639,-0.678662,298,1109,J/mol·K,NIST Chemistry WebBook
+101,Copper(II) fluoride,CuF₂,Ceramic,Liquid,Shomate,100.416,2.25E-08,-1.13E-08,1.93E-09,2.56E-09,1109,2500,J/mol·K,NIST Chemistry WebBook
+102,Potassium superoxide,KO₂,Inorganic,Solid,Shomate,78.12658,36.87087,-25.00149,5.763251,-0.850147,298,1500,J/mol·K,NIST Chemistry WebBook
+103,Sodium peroxide,Na₂O₂,Inorganic,Solid,Shomate,63.90391,131.7793,-123.3272,50.70255,-0.94786,298,785,J/mol·K,NIST Chemistry WebBook
+104,Vanadium carbide,VC,Refractory ceramic,Solid,Cp=A+BT+C/T²,9.18,3.30E-03,-1.95E+05,—,—,298.16,1611,J/mol·K,Shomate & Kelley / JACS
+105,Vanadium nitride,VN,Refractory ceramic,Solid,Cp=A+BT+C/T²,10.94,2.10E-03,-2.21E+05,—,—,298.16,1611,J/mol·K,Shomate & Kelley / JACS
+106,Mercury(II) chloride,HgCl₂,Inorganic,Solid,Shomate,68.10715,25.82377,-4.640057,0.361514,-0.132167,298,550,J/mol·K,NIST Chemistry WebBook
+106,Mercury(II) chloride,HgCl₂,Inorganic,Liquid,Shomate,102.09,0,0,0,0,550,1500,J/mol·K,NIST Chemistry WebBook
+107,Mercury(II) bromide,HgBr₂,Inorganic,Solid,Shomate,66.69254,28.97529,0.301358,-0.094184,-0.003732,298,514,J/mol·K,NIST Chemistry WebBook
+107,Mercury(II) bromide,HgBr₂,Inorganic,Liquid,Shomate,102.09,3.37E-09,-3.27E-09,1.03E-09,3.93E-11,514,1500,J/mol·K,NIST Chemistry WebBook
+108,Mercury(II) iodide,HgI₂,Inorganic,Solid,Shomate,64.3608,43.55711,0,0,0.035489,298,402,J/mol·K,NIST Chemistry WebBook
+108,Mercury(II) iodide,HgI₂,Inorganic,Solid,Shomate,84.1189,0,0,0,0,402,530,J/mol·K,NIST Chemistry WebBook
+108,Mercury(II) iodide,HgI₂,Inorganic,Liquid,Shomate,102.09,2.79E-12,0,0,5.35E-13,530,1500,J/mol·K,NIST Chemistry WebBook
+109,Phosphorus,P,Non-metal,Solid ,Shomate,24.32214,-1.809807,7.486431,3.14795,-0.296815,298,317.3,J/mol·K,NIST Chemistry WebBook
+109,Phosphorus,P,Non-metal,Solid,Shomate,16.45576,43.28892,-58.73876,25.60646,-0.086728,298,317.3,J/mol·K,NIST Chemistry WebBook
+109,Phosphorus,P,Non-metal,Solid,Shomate,28.38677,-19.1436,36.82476,-13.89983,-0.35881,298,317.3,J/mol·K,NIST Chemistry WebBook
+110,Rubidium,Rb,Metal,Solid,Shomate,9.44626,65.31182,45.5123,-26.78961,-0.10773,298,312.65,J/mol·K,NIST Chemistry WebBook
+110,Rubidium,Rb,Metal,Liquid,Shomate,35.49727,-12.87341,8.550047,-0.002827,-0.000119,312.65,970.385,J/mol·K,NIST Chemistry WebBook
+111,Barium titanate,BaTiO3,Ceramic,Solid,Cp=A+B*T+C/T²,121.46,8.54E-03,-1.92E+06,0,0,298,1800,J/mol·K,"Gaskell, Thermodynamics of Materials"
+112,Calcium titanate,CaTiO3,Ceramic,Solid,Cp=A+B*T+C/T²,127.49,5.69E-03,-2.80E+06,0,0,298,1530,J/mol·K,"Gaskell, Thermodynamics of Materials"
+113,Cordierite,2MgO·2Al2O3·5SiO2,Ceramic/Refractory,Solid,Cp=A+B*T+C/T²,626.34,9.12E-02,-2.01E+07,0,0,298,1738,J/mol·K,"Gaskell, Thermodynamics of Materials"
+114,Carbon,C,Carbon material,Graphite,Cp=A+B*T+C/T²,0.11,3.89E-02,-1.48E+05,0,0,298,1100,J/mol·K,"Gaskell, Thermodynamics of Materials"
+114,Carbon,C,Carbon material,Graphite,Cp=A+B*T+C/T²,24.43,4.40E-04,-3.16E+06,0,0,1100,4000,J/mol·K,"Gaskell, Thermodynamics of Materials"
+114,Carbon,C,Carbon material,Diamond,Cp=A+B*T+C/T²,9.12,1.32E-02,-6.19E+05,0,0,298,1200,J/mol·K,"Gaskell, Thermodynamics of Materials"
+115,Calcium,Ca,Metal,α-Solid,Cp=A+B*T+C/T²,25.37,-7.26E-03,0,0,0,298,716,J/mol·K,"Gaskell, Thermodynamics of Materials"
+115,Calcium,Ca,Metal,β-Solid,Cp=A+B*T+C/T²,-0.36,4.13E-02,0,0,0,716,1115,J/mol·K,"Gaskell, Thermodynamics of Materials"
+116,Barium,Ba,Metal,α-Solid,Cp=A+B*T+C/T²,-473.2,1.587,1.28E+07,0,0,298,648,J/mol·K,"Gaskell, Thermodynamics of Materials"
+116,Barium,Ba,Metal,β-Solid,Cp=A+B*T+C/T²,-5.69,8.03E-02,0,0,0,648,1003,J/mol·K,"Gaskell, Thermodynamics of Materials"
+117,Iron,Fe,Metal,α/δ-Solid,Cp=A+B*T+C/T²,37.12,6.17E-03,0,0,0,298,1183,J/mol·K,"Gaskell, Thermodynamics of Materials"
+117,Iron,Fe,Metal,γ-Solid,Cp=A+B*T+C/T²,24.47,8.45E-03,0,0,0,1187,1664,J/mol·K,"Gaskell, Thermodynamics of Materials"
+117,Iron,Fe,Metal,Liquid,Cp=A+B*T+C/T²,41.8,0,0,0,0,1809,1873,J/mol·K,"Gaskell, Thermodynamics of Materials"
+118,Manganese,Mn,Metal,α-Solid,Cp=A+B*T+C/T²,21.6,1.59E-02,0,0,0,298,993,J/mol·K,"Gaskell, Thermodynamics of Materials"
+118,Manganese,Mn,Metal,β-Solid,Cp=A+B*T+C/T²,34.9,2.80E-03,0,0,0,993,1373,J/mol·K,"Gaskell, Thermodynamics of Materials"
+118,Manganese,Mn,Metal,γ-Solid,Cp=A+B*T+C/T²,44.8,0,0,0,0,1373,1409,J/mol·K,"Gaskell, Thermodynamics of Materials"
+118,Manganese,Mn,Metal,δ-Solid,Cp=A+B*T+C/T²,47.3,0,0,0,0,1409,1517,J/mol·K,"Gaskell, Thermodynamics of Materials"
+118,Manganese,Mn,Metal,Liquid,Cp=A+B*T+C/T²,46,0,0,0,0,1517,2000,J/mol·K,"Gaskell, Thermodynamics of Materials"
+119,Zirconium,Zr,Metal,α-Solid,Cp=A+B*T+C/T²,21.97,1.16E-02,0,0,0,298,1136,J/mol·K,"Gaskell, Thermodynamics of Materials"
+119,Zirconium,Zr,Metal,β-Solid,Cp=A+B*T+C/T²,23.22,4.64E-03,0,0,0,1136,2128,J/mol·K,"Gaskell, Thermodynamics of Materials"
+120,Dolomite,CaMg(CO3)2,Ceramic/Mineral,Solid,Cp=A+B*T+C/T²,167.778,0,0,0,0,299,372,J/mol·K,Perry's Chemical Engineers' Handbook
+121,Calcium molybdate,CaMoO4,Ceramic,Solid,Cp=A+B*T+C/T²,138.072,0,0,0,0,273,297,J/mol·K,Perry's Chemical Engineers' Handbook
+122,Anorthite,CaAl2Si2O8,Ceramic/Mineral,Solid,Cp=A+B*T+C/T²,264.136,0.06276,-6.43E+06,0,0,273,1673,J/mol·K,Perry's Chemical Engineers' Handbook
+123,Diopside,CaMgSi2O6,Ceramic/Mineral,Solid,Cp=A+B*T+C/T²,227.861,0.0240413,-6.28E+06,0,0,273,1573,J/mol·K,Perry's Chemical Engineers' Handbook
+124,Wollastonite,CaSiO3,Ceramic/Mineral,Solid,Cp=A+B*T+C/T²,116.943,0.0086023,-3.12E+06,0,0,273,1573,J/mol·K,Perry's Chemical Engineers' Handbook
+125,Calcium metaphosphate,CaP2O6,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,165.268,0,0,0,0,287,371,J/mol·K,Perry's Chemical Engineers' Handbook
+126,Calcium sulfate,CaSO4,Ceramic/Sulfate,Solid,Cp=A+B*T+C/T²,77.4877,0.0919225,-6.56E+05,0,0,273,1373,J/mol·K,Perry's Chemical Engineers' Handbook
+127,Calcium hydroxide,Ca(OH)2,Ceramic/Hydroxide,Solid,Cp=A+B*T+C/T²,89.5376,0,0,0,0,276,373,J/mol·K,Perry's Chemical Engineers' Handbook
+128,Cesium bromide,CsBr,Halide,Solid,Cp=A+B*T+C/T²,52.7184,0.0108366,0,0,0,273,909,J/mol·K,Perry's Chemical Engineers' Handbook
+129,Cesium chloride,CsCl,Halide,Solid,Cp=A+B*T+C/T²,48.9528,0.0129286,0,0,0,273,752,J/mol·K,Perry's Chemical Engineers' Handbook
+130,Lanthanum phosphate,LaPO4,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,121.128,3.01E-02,-2.56E+06,0,0,300,1570,J/mol·K,Popa & Konings (2006)
+131,Praseodymium phosphate,PrPO4,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,124.5,3.04E-02,-2.45E+06,0,0,300,1570,J/mol·K,Popa & Konings (2006)
+132,Neodymium phosphate,NdPO4,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,132.963,2.25E-02,-3.10E+06,0,0,300,1570,J/mol·K,Popa et al. (2006)
+133,Samarium phosphate,SmPO4,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,133.125,2.35E-02,-3.07E+06,0,0,300,1570,J/mol·K,Popa & Konings (2006)
+134,Europium phosphate,EuPO4,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,137.56,1.77E-02,-2.79E+06,0,0,300,1570,J/mol·K,Popa & Konings (2006)
+135,Gadolinium phosphate,GdPO4,Ceramic/Phosphate,Solid,Cp=A+B*T+C/T²,133.237,1.28E-02,-3.10E+06,0,0,300,1570,J/mol·K,Popa & Konings (2006)
+136,Calcium bismuth oxide,CaBi2O4,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,157.161,3.88E-02,-1.55E+06,0,0,298,1000,J/mol·K,Calorimetric oxide data
+137,Calcium tetrabismuth oxide,Ca4Bi6O13,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,550.808,1.15E-01,-7.20E+06,0,0,298,1200,J/mol·K,Calorimetric oxide data
+138,Calcium dibismuth pentoxide,Ca2Bi2O5,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,226.096,3.34E-02,-3.43E+06,0,0,298,1100,J/mol·K,Calorimetric oxide data
+139,Strontium bismuth oxide,SrBi2O4,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,161.97,4.59E-02,-1.78E+06,0,0,298,1100,J/mol·K,Calorimetric oxide data
+140,Lanthanum oxide,La2O3,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,119.733,1.42E-02,-1.35E+06,0,0,298,2553,J/mol·K,Thermodynamic assessment
+141,Lanthanum aluminate,LaAlO3,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,111.01,1.35E-02,-2.11E+06,0,0,800,1500,J/mol·K,Thermodynamic assessment
+142,Lanthanum aluminum oxide,LaAl11O18,Ceramic,Solid,Cp=A+BT+C/T²+DT²,697.843,1.03E-01,-2.58E+07,-1.97E-05,0,298,2201,J/mol·K,Thermodynamic assessment
+143,Lanthanum aluminum oxide,La33Al7O60,Ceramic,Solid,Cp=A+BT+C/T²+DT²,2381.521,2.96E-01,-3.83E+07,-1.25E-05,0,298,2161,J/mol·K,Thermodynamic assessment
+144,Lanthanum silicate,La2Si2O7,Ceramic/Silicate,Solid,Cp=A+BT+C/T²+DT²,220.76,7.21E-02,-4.18E+06,-2.90E-08,0,298,1000,J/mol·K,Thermodynamic assessment
+145,Lanthanum silicate,La2SiO5,Ceramic/Silicate,Solid,Cp=A+B*T+C/T²,182.9117,2.73E-02,-3.36E+06,0,0,298,3000,J/mol·K,Thermodynamic assessment
+146,Lanthanum silicate,La4.67Si3O13,Ceramic/Silicate,Solid,Cp=A+B*T+C/T²,463.165,7.32E-02,-8.68E+06,0,0,298,3000,J/mol·K,Thermodynamic assessment
+147,Magnesium metavanadate,MgV2O6,Ceramic/Vanadate,Solid,Cp=A+B*T+C/T²,208.3,3.58E-02,-4.81E+06,0,0,298,923,J/mol·K,Experimental calorimetry
+148,Vanadium pentoxide,V2O5,Ceramic/Oxide,Solid,Cp=A+B*T+C/T²,194.72,-3.90E-03,-1.32E+06,0,0,298,943,J/mol·K,Thermodynamic assessment
+149,Lanthanum ytterbium oxide,LaYbO3,Ceramic/Perovskite,Solid,Cp=A+B*T+C/T²,120.33,1.68E-02,-1.17E+06,0,0,298,1100,J/mol·K,Experimental DSC
+150,Tantalum carbide,TaC,Carbide,Solid,Shomate,44.29224,7.673707,-0.091309,0.010861,-0.875548,298,4273,J/mol·K,NIST-JANAF
+151,Zirconium diboride,ZrB2,Boride,Solid,Shomate,66.96241,5.66501,1.433879,-0.151665,-1.835999,298,3323,J/mol·K,NIST-JANAF
+152,Dipotassium oxide,K2O,Oxide,Solid,Shomate,245.0104,-567.0492,778.7219,-346.2641,-4.653361,298,700,J/mol·K,NIST-JANAF
+153,Cesium hydroxide,CsOH,Hydroxide,Solid,Shomate,-177.016,1323.21,-2599.41,1882.89,2.80352,298,410,J/mol·K,NIST-JANAF
+154,Lithium carbonate,Li2CO3,Carbonate,Solid,Shomate,68.3323,146.639,-162.573,248.026,-0.702297,298,683,J/mol·K,NIST-JANAF
+155,Potassium carbonate,K2CO3,Carbonate,Solid,Shomate,97.08093,94.22326,-2.053291,0.709644,-0.94786,298,1174,J/mol·K,NIST-JANAF
+156,Sodium carbonate,Na2CO3,Carbonate,Solid,Shomate,175.201,-348.058,743.072,-305.551,-1.634221,298,723,J/mol·K,NIST-JANAF
+157,Ammonium chloride,NH4Cl,Salt,Solid,Shomate,2101.47,-11194.4,23342.3,-16996.7,-26.8353,298,458,J/mol·K,NIST-JANAF
+158,Ammonium bromide,NH4Br,Salt,Solid,Shomate,15.77418,982.7672,-3031.375,2870.274,-2.374655,298,411,J/mol·K,NIST-JANAF
+159,Ammonium iodide,NH4I,Salt,Solid,Shomate,76.35256,9.301953,81.70975,-34.25776,-0.326712,298,2000,J/mol·K,NIST-JANAF
+150,Magnesium carbonate,MgCO3,Ceramic/Carbonate,Solid,Shomate,44.937,149.7085,-74.18274,11.9767,-0.629261,298,1000,J/mol·K,NIST-JANAF
+151,Carbon dioxide,CO2,Gas,Gas,Shomate,24.99735,55.18696,-33.69137,7.948387,-0.136638,298,1200,J/mol·K,NIST-JANAF
+152,Carbon monoxide,CO,Gas,Gas,Shomate,25.56759,6.096134,4.054656,-2.6713,0.131022,298,1300,J/mol·K,NIST-JANAF
+153,Water vapor,H2O,Gas,Gas,Shomate,30.092,6.832514,6.793435,-2.53448,0.082139,500,1700,J/mol·K,NIST-JANAF
+154,Hydrogen,H2,Gas,Gas,Shomate,33.066178,-11.363417,11.432816,-2.772874,-0.158558,298,1000,J/mol·K,NIST-JANAF
+155,Oxygen,O2,Gas,Gas,Shomate,31.32234,-20.23531,57.86644,-36.50624,-0.007372,100,700,J/mol·K,NIST-JANAF
+156,Nitrogen,N2,Gas,Gas,Shomate,28.98641,1.853978,-9.647459,16.63537,0.000117,100,500,J/mol·K,NIST-JANAF
+157,Ammonia,NH3,Gas,Gas,Shomate,19.99563,49.77119,-15.37599,1.921168,0.189174,298,1400,J/mol·K,NIST-JANAF
+158,Sulfur dioxide,SO2,Gas,Gas,Shomate,21.43049,74.35094,-57.75217,16.35534,0.086731,298,1200,J/mol·K,NIST-JANAF
+159,Nitric oxide,NO,Gas,Gas,Shomate,23.83491,12.58878,-1.139011,-1.497459,0.214194,298,1200,J/mol·K,NIST-JANAF
+160,Hydrogen sulfide,H2S,Gas,Gas,Shomate,26.88412,18.67809,3.434203,-3.378702,0.135882,298,1400,J/mol·K,NIST-JANAF
+161,Hydrogen fluoride,HF,Halide,Gas,Shomate,30.11693,-3.246612,2.868116,0.457914,-0.024861,298,1000,J/mol·K,NIST-JANAF
+162,Hydrogen bromide,HBr,Halide,Gas,Shomate,31.71409,-13.69992,23.35567,-9.008529,-0.028758,298,1100,J/mol·K,NIST-JANAF
+163,Hydrogen iodide,HI,Halide,Gas,Shomate,26.0454,4.689678,4.911765,-2.654397,0.121419,298,1400,J/mol·K,NIST-JANAF
+164,Silicon tetrafluoride,SiF4,Fluoride,Gas,Shomate,42.986,159.2803,-151.1374,51.60629,-0.42704,298,1000,J/mol·K,NIST-JANAF
+165,Silicon tetrachloride,SiCl4,Chloride,Gas,Shomate,105.5862,2.123083,-0.573518,0.048847,-1.449627,298,6000,J/mol·K,NIST-JANAF
+166,Boron trifluoride,BF3,Fluoride,Gas,Shomate,21.28631,130.3006,-109.9919,34.28838,-0.073386,298,1000,J/mol·K,NIST-JANAF
+167,Boron trichloride,BCl3,Chloride,Gas,Shomate,35.2897,137.5072,-157.7067,66.77204,-0.146399,298,700,J/mol·K,NIST-JANAF
+168,Phosphorus trichloride,PCl3,Chloride,Gas,Shomate,81.94782,1.019637,-0.276076,0.023549,-0.964224,298,6000,J/mol·K,NIST-JANAF
+169,Phosphorus pentachloride,PCl5,Chloride,Gas,Shomate,130.8939,1.819585,-0.492415,0.041986,-1.765235,298,6000,J/mol·K,NIST-JANAF
+170,Sulfur tetrafluoride,SF4,Fluoride,Gas,Shomate,29.37896,261.1678,-345.0218,168.137,-0.305321,298,600,J/mol·K,NIST-JANAF
+171,Hydrogen fluoride,HF,Halide,Gas,Shomate,30.11693,-3.246612,2.868116,0.457914,-0.024861,298,1000,J/mol·K,NIST-JANAF
+172,Hydrogen bromide,HBr,Halide,Gas,Shomate,29.59067,4.140311,-6.736288,2.243379,0.092301,298,1100,J/mol·K,NIST-JANAF
+173,Hydrogen iodide,HI,Halide,Gas,Shomate,26.0454,4.689678,4.911765,-2.654397,0.121419,298,1400,J/mol·K,NIST-JANAF
+174,Silicon tetrafluoride,SiF4,Fluoride,Gas,Shomate,42.986,159.2803,-151.1374,51.60629,-0.42704,298,1000,J/mol·K,NIST-JANAF
+175,Silicon tetrachloride,SiCl4,Chloride,Gas,Shomate,105.5862,2.123083,-0.573518,0.048847,-1.449627,298,6000,J/mol·K,NIST-JANAF
+176,Boron trifluoride,BF3,Fluoride,Gas,Shomate,21.28631,130.3006,-109.9919,34.28838,-0.073386,298,1000,J/mol·K,NIST-JANAF
+177,Boron trichloride,BCl3,Chloride,Gas,Shomate,35.2897,137.5072,-157.7067,66.77204,-0.146399,298,700,J/mol·K,NIST-JANAF
+178,Phosphorus trichloride,PCl3,Chloride,Gas,Shomate,81.94782,1.019637,-0.276076,0.023549,-0.964224,298,6000,J/mol·K,NIST-JANAF
+179,Phosphorus pentachloride,PCl5,Chloride,Gas,Shomate,130.8939,1.819585,-0.492415,0.041986,-1.765235,298,6000,J/mol·K,NIST-JANAF
+180,Sulfur tetrafluoride,SF4,Fluoride,Gas,Shomate,29.37896,261.1678,-345.0218,168.137,-0.305321,298,600,J/mol·K,NIST-JANAF
+181,Phosphorus trifluoride,PF3,Fluoride,Gas,Shomate,39.66369,110.8434,-108.4355,37.88286,-0.480131,298,1000,J/mol·K,NIST-JANAF
+182,Phosphorus pentafluoride,PF5,Fluoride,Gas,Shomate,55.27064,187.0637,-171.7833,56.05807,-1.10838,298,1100,J/mol·K,NIST-JANAF
+183,Sulfur hexafluoride,SF6,Fluoride,Gas,Shomate,58.90319,255.5399,-252.2747,88.76063,-1.60897,298,1000,J/mol·K,NIST-JANAF
+184,Carbonyl sulfide,COS,Sulfur compound,Gas,Shomate,34.53892,43.05378,-26.61773,6.338844,-0.327515,298,1200,J/mol·K,NIST-JANAF
+185,Carbon disulfide,CS2,Sulfur compound,Gas,Shomate,35.85391,52.49121,-40.83743,12.00155,-0.224831,298,1000,J/mol·K,NIST-JANAF
+186,Nitrogen trifluoride,NF3,Fluoride,Gas,Shomate,26.4561,142.2606,-137.6134,47.68505,-0.404491,298,1000,J/mol·K,NIST-JANAF
+187,Silicon nitride,Si3N4,Nitride,Gas,Shomate,22.67703,29.92075,-23.7109,7.322711,0.041574,298,1400,J/mol·K,NIST-JANAF
+188,Aluminum sulfide,AlS,Sulfide,Gas,Shomate,42.23999,-18.79675,21.38773,-5.42602,-0.446483,298,2000,J/mol·K,NIST-JANAF
+189,Nitrogen dioxide,NO2,Nitrogen oxide,Gas,Shomate,16.10857,75.89525,-54.3874,14.30777,0.239423,298,1200,J/mol·K,NIST-JANAF
+190,Phosphorus oxychloride,POCl3,Oxychloride,Gas,Shomate,75.07602,77.36509,-71.30456,23.86746,-0.669089,298,1000,J/mol·K,NIST-JANAF
+191,Lithium bromide,LiBr,Halide,Solid,Shomate,71.38155,-81.89008,118.8879,-32.37918,-0.689063,298,823,J/mol·K,NIST-JANAF
+192,Potassium chloride,KCl,Halide,Solid,Shomate,35.41597,70.03472,-91.38233,52.52426,0.15346,298,900,J/mol·K,NIST-JANAF
+193,Strontium chloride,SrCl2,Halide,Solid,Shomate,54.42882,113.7676,-177.4497,115.0826,-0.003286,298,1000,J/mol·K,NIST-JANAF
+194,Strontium fluoride,SrF2,Halide,Solid,Shomate,36.5194,168.769,-230.884,—,—,298,1000,J/mol·K,NIST-JANAF
+195,Strontium fluoride,SrF2,Halide,Liquid,Shomate,99.04825,-1.04E-07,3.55E-08,-4.13E-09,-4.23E-08,1750,3500,J/mol·K,NIST-JANAF
+196,Potassium bromide,KBr,Halide,Gas,Shomate,37.39822,0.803207,-0.003938,0.000338,-0.06385,2500,6000,J/mol·K,NIST-JANAF
+197,Strontium,Sr,Metal,Gas,Shomate,57.73041,0.401776,-0.10891,0.009296,-0.438316,3500,6000,J/mol·K,NIST-JANAF
+198,Boron,B,Element,Gas,Shomate,-5.565682,150.5307,-170.667,66.18586,0.506419,298,800,J/mol·K,NIST-JANAF
+199,Boron,B,Element,Gas,Shomate,43.33243,-3.618461,0.949371,-0.067489,-0.352579,800,6000,J/mol·K,NIST-JANAF
+200,Calcium,Ca,Metal,Solid,Shomate,60.38432,-109.7292,113.0785,-40.89262,-0.003522,298,1100,J/mol·K,NIST-JANAF
+201,Calcium chloride,CaCl2,Halide,Solid,Shomate,87.29581,-35.07644,44.12781,-9.848049,-0.674264,298,1045,J/mol·K,NIST-JANAF
+202,Magnesium chloride,MgCl2,Halide,Solid,Shomate,78.30733,2.435888,6.858873,-1.728967,-0.729911,298,987,J/mol·K,NIST-JANAF
+203,Barium sulfide,BaS,Sulfide,Solid,Shomate,49.3571,9.299091,-0.991007,0.175505,-0.245622,298,3000,J/mol·K,NIST-JANAF
+204,Strontium sulfide,SrS,Sulfide,Solid,Shomate,48.78126,9.579728,-2.396596,0.404882,-0.253551,298,3000,J/mol·K,NIST-JANAF
+205,Calcium sulfide,CaS,Sulfide,Solid,Shomate,48.6026,7.280161,-1.933724,0.329739,-0.289224,298,3000,J/mol·K,NIST-JANAF
+206,Magnesium sulfide,MgS,Sulfide,Solid,Shomate,48.60009,3.685472,0.021388,0.015067,-0.369222,298,3000,J/mol·K,NIST-JANAF
+207,Dipotassium oxide,K2O,Oxide,Solid,Shomate,245.0104,-567.0492,778.7219,-346.2641,-4.653361,298,700,J/mol·K,NIST-JANAF
+208,Cesium chloride,CsCl,Halide,Solid,Shomate,44.43199,27.83406,-8.253443,3.968596,0.029749,298,743,J/mol·K,NIST-JANAF
+209,Lead sulfide,PbS,Sulfide,Solid,Shomate,47.38087,7.55053,2.008094,-0.70046,-0.031834,298,1386.5,J/mol·K,NIST-JANAF
+210,Sodium iodide,NaI,Halide,Solid,Shomate,50.19963,10.22787,0.564543,-0.221018,-0.094625,298,933,J/mol·K,NIST-JANAF
